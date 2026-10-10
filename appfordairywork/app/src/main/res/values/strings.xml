@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attendance & Salary Tracker</string>
+    <string name="company_name">Company Name</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="department">Department</string>
+    <string name="base_salary">Base Monthly Salary</string>
+    <string name="working_days">Working Days</string>
+    <string name="work_hours">Work Hours/Day</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="full_day">Full Day</string>
+    <string name="half_day">Half Day</string>
+    <string_name="absent">Absent</string>
+    <string name="advance_taken">Advance Taken</string>
+    <string name="notes">Notes</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="summary_total_days">Total Days</string>
+    <string name="summary_full">Full</string>
+    <string name="summary_half">Half</string>
+    <string name="summary_absent">Absent</string>
+    <string name="summary_gross">Gross</string>
+    <string name="summary_advance">Advance</string>
+    <string name="summary_net">Net</string>
+</resources>
